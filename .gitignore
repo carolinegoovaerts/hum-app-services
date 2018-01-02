@@ -1,0 +1,19 @@
+# Build files
+target
+*.class
+*.jar
+*.war
+
+# IntelliJ
+.idea
+*.iml
+out
+gen
+
+# Linux
+*~
+*.swp
+
+# OSX
+.DS_Store
+._*
